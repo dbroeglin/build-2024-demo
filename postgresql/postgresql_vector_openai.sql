@@ -205,9 +205,10 @@ VALUES
     (593, 5, 'This recipe was fantastic!'),
     (593, 5, 'This recipe was incredible!'),
     (593, 5, 'This recipe was awesome!'),
-    (593, 5, 'This recipe was the best!')
+    (593, 5, 'This recipe was the best!'),
     (593, 5, 'I don''t like chocolate! Am I weird?')
     ;
+
 
 
 
